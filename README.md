@@ -10,3 +10,5 @@ is a cross-browser `Blob` implementation that solves this.
 
   [1]: http://www.w3.org/TR/html5/the-canvas-element.html
   [2]: https://github.com/eligrey/Blob.js
+
+Ref: http://updates.html5rocks.com/2011/08/Saving-generated-files-on-the-client-side
